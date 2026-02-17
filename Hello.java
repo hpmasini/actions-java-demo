@@ -1,4 +1,4 @@
-public class WrongName
+opublic class Hello
 { 
   public static void main(String args[])
   {
